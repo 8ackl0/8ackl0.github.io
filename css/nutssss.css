@@ -40,7 +40,7 @@ body {
     width: 8rem;
     height: 8rem;
     /*background: url(https://q1.qlogo.cn/g?b=qq&nk=1656071287&s=640) no-repeat;*/
-	background: url(../img/debian-logo-1024x576.png);
+	background: url(../img/debian-logo-640x640.png);
     background-size: cover;
     border-radius: 50%;
     position: relative;
